@@ -21,11 +21,44 @@ The dashboard provides insights into revenue, profit, regional distribution, pro
 * Observed **peak sales during summer months (July highest)**
 * Noted higher profit margins in **Women’s Apparel (13%)**
 
-## 🧠 Data Modeling
+---
 
-* Implemented a **star schema** for efficient querying
-* Created relationships between fact and dimension tables
-* Optimized performance for faster dashboard interactions
+## Dashboard Features
+- Sales & profit tracking
+- Monthly sales trend analysis
+- Regional sales performance
+- Retailer contribution analysis
+- Product category insights
+- Sales method comparison
+- Interactive slicers
+
+---
+
+## Tools Used
+- Power BI
+- DAX
+- Power Query
+- Excel/CSV
+
+---
+
+## Key Business Insights
+- West region generated the highest sales contribution.
+- Foot Locker was the top-performing retailer.
+- In-store sales dominated total revenue.
+- Sales peaked during July and December.
+- Men’s street footwear was the best-performing product category.
+
+---
+
+## Business Recommendations
+- Focus marketing on high-performing regions.
+- Strengthen partnerships with top retailers.
+- Expand high-demand product categories.
+- Improve online sales strategies.
+- Optimize inventory during peak seasons.
+
+---
 
 
 
