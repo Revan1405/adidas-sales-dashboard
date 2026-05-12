@@ -23,7 +23,7 @@ The dashboard provides insights into revenue, profit, regional distribution, pro
 
 ---
 
-## Dashboard Features
+## 📈 Dashboard Features
 - Sales & profit tracking
 - Monthly sales trend analysis
 - Regional sales performance
@@ -43,7 +43,7 @@ The dashboard provides insights into revenue, profit, regional distribution, pro
 
 ---
 
-## Business Recommendations
+## 📊 Business Recommendations
 - Focus marketing on high-performing regions.
 - Strengthen partnerships with top retailers.
 - Expand high-demand product categories.
