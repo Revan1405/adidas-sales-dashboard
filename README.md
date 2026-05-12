@@ -16,7 +16,7 @@ The dashboard provides insights into revenue, profit, regional distribution, pro
 ## 📊 Key Insights
 
 * Achieved **$900M+ in total sales** and **$332M profit**
-* Identified **West region (30%)** as the top contributor
+* Identified **West region (26.89%)** as the top contributor
 * Found **Men’s Street Footwear** as the highest revenue-generating category
 * Observed **peak sales during summer months (July highest)**
 * Noted higher profit margins in **Women’s Apparel (13%)**
@@ -40,14 +40,6 @@ The dashboard provides insights into revenue, profit, regional distribution, pro
 - Power Query
 - Excel/CSV
 
----
-
-## Key Business Insights
-- West region generated the highest sales contribution.
-- Foot Locker was the top-performing retailer.
-- In-store sales dominated total revenue.
-- Sales peaked during July and December.
-- Men’s street footwear was the best-performing product category.
 
 ---
 
